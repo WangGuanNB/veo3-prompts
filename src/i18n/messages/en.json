@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "title": "Ship Any AI SaaS Startups in hours | ShipAny",
-    "description": "ShipAny is a NextJS boilerplate for building AI SaaS startups, Ship Fast with a variety of templates and components.",
-    "keywords": "ShipAny, AI SaaS Boilerplate, NextJS Boilerplate"
+    "title": "Veo 3 Prompts - Master AI Video Generation | Professional Prompt Library",
+    "description": "Unlock the power of Google's Veo 3 with our comprehensive prompt library. Create cinematic AI videos with expert-crafted prompts for camera movements, lighting, and storytelling.",
+    "keywords": "Veo 3 prompts, AI video generation, Google Veo 3, cinematic prompts, video AI, prompt engineering, AI filmmaking"
   },
   "user": {
     "sign_in": "Sign In",
@@ -119,7 +119,205 @@
     "submit": "Submit",
     "loading": "Submitting...",
     "contact_tip": "Other ways to contact us",
-    "rating_tip": "How do you feel about ShipAny?",
+    "rating_tip": "How do you feel about Veo 3 Prompts?",
     "placeholder": "Leave your words here..."
+  },
+  "hero": {
+    "title": "Master Veo 3 Video Generation",
+    "subtitle": "Professional Prompt Library for Cinematic AI Videos",
+    "description": "Transform your ideas into stunning AI videos with our expertly crafted Veo 3 prompts. From camera movements to lighting techniques, create professional-quality content effortlessly.",
+    "cta_primary": "Get Prompt Library",
+    "cta_secondary": "View Examples",
+    "features_badge": "500+ Professional Prompts"
+  },
+  "features": {
+    "title": "Why Choose Our Veo 3 Prompts",
+    "subtitle": "Everything you need to create cinematic AI videos",
+    "camera_movement": {
+      "title": "Camera Movement Mastery",
+      "description": "Professional prompts for dolly shots, tracking, panning, crane movements, and complex cinematography techniques"
+    },
+    "cinematic_lighting": {
+      "title": "Cinematic Lighting",
+      "description": "Expert lighting prompts including chiaroscuro, golden hour, neon aesthetics, and mood-setting techniques"
+    },
+    "audio_integration": {
+      "title": "Audio Integration",
+      "description": "Native audio prompts for dialogue, sound effects, ambient sounds, and musical scores that sync perfectly"
+    },
+    "style_composition": {
+      "title": "Style & Composition",
+      "description": "Film noir, documentary, fantasy, sci-fi, and artistic style prompts with precise shot composition"
+    },
+    "character_consistency": {
+      "title": "Character & Scene Consistency",
+      "description": "Maintain visual continuity across multiple clips with detailed character and environment descriptions"
+    },
+    "advanced_techniques": {
+      "title": "Advanced Techniques",
+      "description": "Negative prompts, lens effects, depth of field, and professional filmmaking terminology"
+    }
+  },
+  "prompt_categories": {
+    "title": "Prompt Categories",
+    "subtitle": "Organized collections for every video creation need",
+    "camera_movements": {
+      "name": "Camera Movements",
+      "description": "Dolly, tracking, pan, tilt, crane, and orbit shots",
+      "prompt_count": "75+"
+    },
+    "cinematic_styles": {
+      "name": "Cinematic Styles",
+      "description": "Film noir, sci-fi, fantasy, documentary, and artistic styles",
+      "prompt_count": "100+"
+    },
+    "lighting_mood": {
+      "name": "Lighting & Mood",
+      "description": "Golden hour, neon, chiaroscuro, and atmospheric lighting",
+      "prompt_count": "60+"
+    },
+    "character_portrait": {
+      "name": "Character & Portrait",
+      "description": "Detailed character descriptions and portrait techniques",
+      "prompt_count": "80+"
+    },
+    "environment_scenes": {
+      "name": "Environment & Scenes",
+      "description": "Urban, nature, fantasy, and futuristic environments",
+      "prompt_count": "90+"
+    },
+    "audio_sound": {
+      "name": "Audio & Sound Design",
+      "description": "Dialogue, SFX, ambient sounds, and musical integration",
+      "prompt_count": "45+"
+    }
+  },
+  "examples": {
+    "title": "Prompt Examples",
+    "subtitle": "See the power of professional Veo 3 prompts",
+    "dolly_shot": {
+      "title": "Cinematic Dolly Shot",
+      "prompt": "Slow dolly-in on a detective's weathered face in a dimly lit interrogation room, film noir style, harsh single-source lighting creating dramatic shadows. Audio: rhythmic clock ticking, shallow breathing.",
+      "category": "Camera Movement",
+      "style": "Film Noir"
+    },
+    "tracking_shot": {
+      "title": "Fantasy Tracking Shot",
+      "prompt": "Dynamic tracking shot following a lone wolf sprinting across snow-covered tundra under a full moon, hyperrealistic style, cool blue and white palette. Audio: wolf panting, crunching snow, distant wind.",
+      "category": "Nature & Wildlife",
+      "style": "Hyperrealistic"
+    },
+    "crane_shot": {
+      "title": "Sci-Fi Crane Shot",
+      "prompt": "Epic crane shot starting at ground level with futuristic cityscape, rising to reveal neon-lit metropolis with flying cars at dusk. Audio: ambient city hum, vehicle whooshes, electronic ambience.",
+      "category": "Futuristic",
+      "style": "Cyberpunk"
+    }
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Professional prompts for every creator",
+    "starter": {
+      "name": "Starter Pack",
+      "price": "$29",
+      "description": "Perfect for beginners exploring Veo 3",
+      "features": [
+        "150 curated prompts",
+        "Basic camera movements",
+        "Style guide included",
+        "Email support",
+        "Lifetime updates"
+      ],
+      "cta": "Get Started"
+    },
+    "professional": {
+      "name": "Professional",
+      "price": "$79",
+      "description": "Complete toolkit for serious creators",
+      "features": [
+        "500+ professional prompts",
+        "Advanced camera techniques",
+        "Audio integration prompts",
+        "Negative prompt library",
+        "Video tutorials",
+        "Priority support",
+        "Commercial license"
+      ],
+      "cta": "Go Professional",
+      "popular": true
+    },
+    "master": {
+      "name": "Master Collection",
+      "price": "$149",
+      "description": "Everything you need for cinematic excellence",
+      "features": [
+        "1000+ expert prompts",
+        "Exclusive techniques",
+        "Custom prompt generator",
+        "1-on-1 consultation",
+        "Advanced tutorials",
+        "Community access",
+        "Extended commercial license"
+      ],
+      "cta": "Master Veo 3"
+    }
+  },
+  "testimonials": {
+    "title": "What Creators Say",
+    "subtitle": "Join thousands of satisfied video creators",
+    "sarah": {
+      "name": "Sarah Chen",
+      "role": "Content Creator",
+      "content": "These prompts transformed my Veo 3 workflow. The camera movement techniques alone saved me hours of experimentation.",
+      "rating": 5
+    },
+    "marcus": {
+      "name": "Marcus Rodriguez",
+      "role": "Film Director",
+      "content": "Professional-grade prompts that actually work. The cinematic results are incredible - my clients are amazed.",
+      "rating": 5
+    },
+    "emma": {
+      "name": "Emma Thompson",
+      "role": "Marketing Agency",
+      "content": "Our video production speed increased 300% using these prompts. The quality is consistently cinematic.",
+      "rating": 5
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about Veo 3 prompts",
+    "what_is_veo3": {
+      "question": "What is Veo 3 and why do I need specialized prompts?",
+      "answer": "Veo 3 is Google's advanced AI video generation model with native audio, improved physics, and cinematic understanding. Our prompts are specifically crafted to leverage these capabilities for professional results."
+    },
+    "prompt_difference": {
+      "question": "How are these prompts different from basic descriptions?",
+      "answer": "Our prompts follow the optimal structure: Subject + Context + Action + Style + Camera + Composition + Ambiance + Audio. This comprehensive approach ensures consistent, high-quality outputs."
+    },
+    "commercial_use": {
+      "question": "Can I use these prompts for commercial projects?",
+      "answer": "Yes! Professional and Master Collection plans include commercial licenses. You can use the generated videos for client work, marketing, and commercial purposes."
+    },
+    "updates": {
+      "question": "Do you provide updates when Veo 3 evolves?",
+      "answer": "Absolutely! All plans include lifetime updates. As Veo 3 improves and new techniques emerge, we continuously update our prompt library."
+    },
+    "beginner_friendly": {
+      "question": "What if I'm new to AI video generation?",
+      "answer": "Our Starter Pack includes a comprehensive style guide and basic tutorials. Each prompt category has detailed explanations and usage examples."
+    },
+    "consistency": {
+      "question": "How do I maintain consistency across multiple video clips?",
+      "answer": "Our prompts include specific techniques for character and scene consistency, plus detailed descriptors that ensure visual continuity across your video series."
+    }
+  },
+  "cta_section": {
+    "title": "Ready to Create Cinematic AI Videos?",
+    "subtitle": "Join thousands of creators using professional Veo 3 prompts",
+    "description": "Transform your video creation workflow with expertly crafted prompts that deliver consistent, professional results every time.",
+    "cta_primary": "Get Instant Access",
+    "cta_secondary": "View Sample Prompts",
+    "guarantee": "30-day money-back guarantee"
   }
 }

@@ -3,10 +3,10 @@
   "theme": "light",
   "header": {
     "brand": {
-      "title": "ShipAny",
+      "title": "Veo 3 Prompts",
       "logo": {
         "src": "/logo.png",
-        "alt": "ShipAny"
+        "alt": "Veo 3 Prompts"
       },
       "url": "/"
     },
@@ -16,42 +16,27 @@
           "title": "Features",
           "url": "/#feature",
           "icon": "RiSparkling2Line"
-        },
-        {
-          "title": "Pricing",
-          "url": "/pricing",
-          "icon": "RiMoneyDollarCircleLine"
-        },
-        {
-          "title": "Showcase",
-          "url": "/showcase",
-          "icon": "RiApps2Line"
         }
+       
       ]
     },
     "buttons": [
-      {
-        "title": "Get ShipAny",
-        "url": "https://shipany.ai",
-        "target": "_blank",
-        "variant": "link",
-        "icon": "RiArrowRightUpLine"
-      }
+       
     ],
-    "show_sign": true,
-    "show_theme": true,
-    "show_locale": true
+    "show_sign": false,
+    "show_theme": false,
+    "show_locale": false
   },
   "hero": {
-    "title": "Ship Any AI Startups in hours, not days",
-    "highlight_text": "Ship Any",
-    "description": "ShipAny is a NextJS boilerplate for building AI SaaS startups.<br/>Ship Fast with a variety of templates and components.",
+    "title": "Master Veo 3 Video Generation with Professional Prompts",
+    "highlight_text": "Veo 3 Prompts",
+    "description": "Unlock Google's Veo 3 potential with our expertly crafted veo 3 prompts library.<br/>Create cinematic AI videos with advanced camera movements, lighting techniques, and professional filmmaking terminology.",
     "announcement": {
-      "label": "2025",
-      "title": "🎉 Happy New Year",
+      "label": "NEW",
+      "title": "🎬 500+ Professional Veo 3 Prompts",
       "url": "/#pricing"
     },
-    "tip": "🎁 50% off before 2025",
+    "tip": "🚀 Transform your AI video creation workflow",
     "buttons": [
       {
         "title": "Get Started",
@@ -61,108 +46,108 @@
         "variant": "default"
       },
       {
-        "title": "Join Discord",
-        "icon": "RiDiscordFill",
-        "url": "https://discord.gg/HQNnrzjZQS",
-        "target": "_blank",
+        "title": "View Examples",
+        "icon": "RiPlayCircleFill",
+        "url": "/#examples",
+        "target": "_self",
         "variant": "outline"
       }
     ],
-    "show_happy_users": true,
+    "show_happy_users": false,
     "show_badge": false
   },
   "branding": {
-    "title": "ShipAny is built on the shoulders of giants",
+    "title": "Trusted by creators using cutting-edge AI technology",
     "items": [
       {
-        "title": "Next.js",
+        "title": "Google Veo 3",
         "image": {
           "src": "/imgs/logos/nextjs.svg",
-          "alt": "Next.js"
+          "alt": "Google Veo 3"
         }
       },
       {
-        "title": "React",
+        "title": "AI Video Generation",
         "image": {
           "src": "/imgs/logos/react.svg",
-          "alt": "React"
+          "alt": "AI Video"
         }
       },
       {
-        "title": "TailwindCSS",
+        "title": "Professional Prompts",
         "image": {
           "src": "/imgs/logos/tailwindcss.svg",
-          "alt": "TailwindCSS"
+          "alt": "Professional Prompts"
         }
       },
       {
-        "title": "Shadcn/UI",
+        "title": "Cinematic Quality",
         "image": {
           "src": "/imgs/logos/shadcn.svg",
-          "alt": "Shadcn/UI"
+          "alt": "Cinematic Quality"
         }
       },
       {
-        "title": "Vercel",
+        "title": "Expert Crafted",
         "image": {
           "src": "/imgs/logos/vercel.svg",
-          "alt": "Vercel"
+          "alt": "Expert Crafted"
         }
       }
     ]
   },
   "introduce": {
     "name": "introduce",
-    "title": "What is ShipAny",
-    "label": "Introduce",
-    "description": "ShipAny is a NextJS boilerplate for building AI SaaS startups. Built in a variety of templates and components.",
+    "title": "What are Professional Veo 3 Prompts",
+    "label": "Introduction",
+    "description": "Our veo 3 prompts are expertly crafted instructions that unlock Google's Veo 3 full potential. Each prompt follows the optimal structure: Subject + Context + Action + Style + Camera + Composition + Ambiance + Audio for consistent, cinematic results.",
     "image": {
       "src": "/imgs/features/1.png"
     },
     "items": [
       {
-        "title": "Ready-to-use Templates",
-        "description": "Choose from dozens of production-ready AI SaaS templates to quickly start your project.",
-        "icon": "RiNextjsFill"
+        "title": "Cinematic Camera Control",
+        "description": "Master dolly shots, tracking movements, crane shots, and complex cinematography with professional veo 3 prompts.",
+        "icon": "RiCameraFill"
       },
       {
-        "title": "Infrastructure Setup",
-        "description": "Get instant access to scalable infrastructure with best practices built-in.",
-        "icon": "RiDatabase2Line"
+        "title": "Advanced Lighting Techniques",
+        "description": "Create stunning visuals with chiaroscuro, golden hour, neon aesthetics, and mood-setting lighting prompts.",
+        "icon": "RiLightbulbFlashFill"
       },
       {
-        "title": "Quick Deployment",
-        "description": "Deploy your AI SaaS application to production in hours, not days.",
-        "icon": "RiCloudyFill"
+        "title": "Native Audio Integration",
+        "description": "Leverage Veo 3's audio capabilities with prompts for dialogue, sound effects, and musical scores.",
+        "icon": "RiVolumeUpFill"
       }
     ]
   },
   "benefit": {
     "name": "benefit",
-    "title": "Why Choose ShipAny",
+    "title": "Why Choose Our Veo 3 Prompts",
     "label": "Benefits",
-    "description": "Get everything you need to launch your AI startup - from ready-to-use templates to technical support.",
+    "description": "Get everything you need to create professional AI videos - from basic camera movements to advanced cinematic techniques with our comprehensive veo 3 prompts library.",
     "items": [
       {
-        "title": "Complete Framework",
-        "description": "Built on Next.js with authentication, payments, and AI integration - everything works out of the box.",
-        "icon": "RiNextjsFill",
+        "title": "Professional Prompt Structure",
+        "description": "Every veo 3 prompt follows the proven formula: Subject + Context + Action + Style + Camera + Composition + Ambiance + Audio for consistent, high-quality results.",
+        "icon": "RiFileTextFill",
         "image": {
           "src": "/imgs/features/2.png"
         }
       },
       {
-        "title": "Rich Templates Library",
-        "description": "Choose from various AI SaaS templates to kickstart your project - chatbots, image generation, and more.",
-        "icon": "RiClapperboardAiLine",
+        "title": "Comprehensive Categories",
+        "description": "Access 500+ veo 3 prompts across camera movements, lighting, styles, characters, environments, and audio integration for every creative need.",
+        "icon": "RiGridFill",
         "image": {
           "src": "/imgs/features/3.png"
         }
       },
       {
-        "title": "Technical Guidance",
-        "description": "Get dedicated support and join our developer community to ensure your successful launch.",
-        "icon": "RiCodeFill",
+        "title": "Expert Support",
+        "description": "Get dedicated prompt optimization support and join our community of creators mastering Veo 3 video generation techniques.",
+        "icon": "RiTeamFill",
         "image": {
           "src": "/imgs/features/4.png"
         }
@@ -171,8 +156,8 @@
   },
   "usage": {
     "name": "usage",
-    "title": "How to Launch with ShipAny",
-    "description": "Get your AI SaaS startup running in three simple steps:",
+    "title": "How to Master Veo 3 with Our Prompts",
+    "description": "Start creating professional AI videos in four simple steps:",
     "image": {
       "src": "/imgs/features/1.png"
     },
@@ -180,30 +165,30 @@
     "text_align": "center",
     "items": [
       {
-        "title": "Get ShipAny",
-        "description": "Buy ShipAny with a one-time payment. Check your email for the code and documentation.",
-        "image": {
+        "title": "Choose Your Veo 3 Prompts Pack",
+        "description": "Select from Essential, Professional, or Master Collection based on your needs. Get instant access to expertly crafted veo 3 prompts.",
+        "_image": {
           "src": "/imgs/features/5.png"
         }
       },
       {
-        "title": "Start Your Project",
-        "description": "Read the documentation and clone the code of ShipAny. Start building your AI SaaS startup.",
-        "image": {
+        "title": "Browse Prompt Categories",
+        "description": "Explore organized collections of veo 3 prompts: camera movements, lighting, styles, characters, environments, and audio integration.",
+        "_image": {
           "src": "/imgs/features/6.png"
         }
       },
       {
-        "title": "Customize Your Project",
-        "description": "Modify the template with your data and contents. Specific AI functionality needs.",
-        "image": {
+        "title": "Customize for Your Vision",
+        "description": "Adapt our veo 3 prompts to your specific needs. Follow our structure guide to create variations and maintain consistency.",
+        "_image": {
           "src": "/imgs/features/7.png"
         }
       },
       {
-        "title": "Deploy to Production",
-        "description": "Deploy your project to production with a few steps and start serving customers immediately.",
-        "image": {
+        "title": "Generate Cinematic Videos",
+        "description": "Use your optimized veo 3 prompts in Google's Veo 3 to create stunning, professional-quality AI videos with consistent results.",
+        "_image": {
           "src": "/imgs/features/8.png"
         }
       }
@@ -211,116 +196,116 @@
   },
   "feature": {
     "name": "feature",
-    "title": "Key Features of ShipAny",
-    "description": "Everything you need to launch your AI SaaS startup quickly and efficiently.",
+    "title": "Key Features of Our Veo 3 Prompts Library",
+    "description": "Everything you need to create professional AI videos with Google's Veo 3 technology.",
     "items": [
       {
-        "title": "Next.js Boilerplate",
-        "description": "Production-ready Next.js templates with SEO-friendly structure and i18n support.",
-        "icon": "RiNextjsFill"
+        "title": "Camera Movement Mastery",
+        "description": "Professional veo 3 prompts for dolly shots, tracking, panning, crane movements, and complex cinematography techniques.",
+        "icon": "RiCameraFill"
       },
       {
-        "title": "Authentication & Payments",
-        "description": "Integrated Google OAuth, one-tap login, and Stripe payment processing.",
-        "icon": "RiKey2Fill"
+        "title": "Cinematic Lighting Control",
+        "description": "Expert lighting prompts including chiaroscuro, golden hour, neon aesthetics, and mood-setting techniques for stunning visuals.",
+        "icon": "RiLightbulbFlashFill"
       },
       {
-        "title": "Data Infrastructure",
-        "description": "Built-in Supabase integration for reliable and scalable data storage.",
-        "icon": "RiDatabase2Line"
+        "title": "Native Audio Integration",
+        "description": "Leverage Veo 3's audio capabilities with prompts for dialogue, sound effects, ambient sounds, and musical scores.",
+        "icon": "RiVolumeUpFill"
       },
       {
-        "title": "One-Click Deployment",
-        "description": "Seamless deployment to Vercel or Cloudflare with automated setup.",
-        "icon": "RiCloudy2Fill"
+        "title": "Style & Composition",
+        "description": "Film noir, documentary, fantasy, sci-fi, and artistic style veo 3 prompts with precise shot composition control.",
+        "icon": "RiPaletteFill"
       },
       {
-        "title": "Business Analytics",
-        "description": "Integrated Google Analytics and Search Console for tracking growth.",
-        "icon": "RiBarChart2Line"
+        "title": "Character Consistency",
+        "description": "Maintain visual continuity across multiple clips with detailed character and environment description techniques.",
+        "icon": "RiUserFill"
       },
       {
-        "title": "AI-Ready Infrastructure",
-        "description": "Pre-configured AI integration with built-in credits system and API sales.",
-        "icon": "RiRobot2Line"
+        "title": "Advanced Techniques",
+        "description": "Negative prompts, lens effects, depth of field, and professional filmmaking terminology for expert-level results.",
+        "icon": "RiSettings3Fill"
       }
     ]
   },
   "stats": {
     "name": "stats",
     "label": "Stats",
-    "title": "People Love ShipAny",
-    "description": "for it's easy to use and fast to ship.",
+    "title": "Creators Love Our Veo 3 Prompts",
+    "description": "for professional results and time-saving efficiency.",
     "icon": "FaRegHeart",
     "items": [
       {
         "title": "Trusted by",
-        "label": "99+",
-        "description": "Customers"
+        "label": "500+",
+        "description": "Video Creators"
       },
       {
-        "title": "Built in",
-        "label": "20+",
-        "description": "Components"
+        "title": "Professional",
+        "label": "1000+",
+        "description": "Veo 3 Prompts"
       },
       {
-        "title": "Ship Fast in",
-        "label": "5",
-        "description": "Minutes"
+        "title": "Create Videos in",
+        "label": "Minutes",
+        "description": "Not Hours"
       }
     ]
   },
   "testimonial": {
     "name": "testimonial",
     "label": "Testimonial",
-    "title": "What Users Say About ShipAny",
-    "description": "Hear from developers and founders who launched their AI startups with ShipAny.",
+    "title": "What Creators Say About Our Veo 3 Prompts",
+    "description": "Hear from video creators and filmmakers who transformed their workflow with our professional veo 3 prompts.",
     "icon": "GoThumbsup",
     "items": [
       {
-        "title": "David Chen",
-        "label": "Founder of AIWallpaper.shop",
-        "description": "ShipAny saved us months of development time. We launched our AI wallpaper business in just 2 days and got our first paying customer within a week!",
+        "title": "Sarah Chen",
+        "label": "Content Creator & YouTuber",
+        "description": "These veo 3 prompts completely transformed my video creation process. The camera movement techniques alone saved me hours of experimentation. My content quality improved dramatically!",
         "image": {
           "src": "/imgs/users/1.png"
         }
       },
       {
-        "title": "Rachel Kim",
-        "label": "CTO at HeyBeauty.ai",
-        "description": "The pre-built AI infrastructure is a game-changer. We didn't have to worry about architecture - just focused on our AI beauty tech and went live fast.",
+        "title": "Marcus Rodriguez",
+        "label": "Film Director",
+        "description": "Professional-grade veo 3 prompts that actually work. The cinematic results are incredible - my clients are amazed by the quality we can achieve with AI video generation.",
         "image": {
           "src": "/imgs/users/2.png"
         }
       },
       {
-        "title": "Marcus Thompson",
-        "label": "Solo Developer",
-        "description": "As a solo developer, ShipAny gave me everything I needed - auth, payments, AI integration, and beautiful UI. Launched my SaaS in a weekend!",
+        "title": "Emma Thompson",
+        "label": "Marketing Agency Owner",
+        "description": "Our video production speed increased 300% using these veo 3 prompts. The quality is consistently cinematic, and our clients love the professional results.",
         "image": {
           "src": "/imgs/users/3.png"
         }
       },
       {
-        "title": "Sofia Garcia",
-        "label": "CEO of Melodisco",
-        "description": "The templates are production-ready and highly customizable. We built our AI music platform in hours instead of months. Incredible time-to-market!",
+        "title": "David Kim",
+        "label": "AI Video Specialist",
+        "description": "The prompt structure guide is invaluable. These veo 3 prompts follow proven formulas that deliver consistent, high-quality results every time. Game-changing resource!",
         "image": {
           "src": "/imgs/users/4.png"
         }
       },
       {
-        "title": "James Wilson",
-        "label": "Tech Lead at GPTs.works",
-        "description": "ShipAny's infrastructure is rock-solid. We scaled from 0 to 10k users without touching the backend. Best investment for our AI startup.",
+        "title": "Lisa Wang",
+        "label": "Social Media Manager",
+        "description": "From beginner to creating professional AI videos in days! The veo 3 prompts library covers everything I need - lighting, camera work, and audio integration.",
         "image": {
           "src": "/imgs/users/5.png"
         }
       },
       {
-        "title": "Anna Zhang",
-        "label": "Startup Founder",
-        "description": "From idea to launch in 3 days! ShipAny's templates and deployment tools made it possible to test our AI business concept incredibly fast.",
+        "title": "Alex Johnson",
+        "label": "Independent Filmmaker",
+        "description": "The advanced techniques in these veo 3 prompts opened up creative possibilities I never imagined. My AI-generated scenes now rival traditional cinematography.",
         "image": {
           "src": "/imgs/users/6.png"
         }
@@ -330,50 +315,50 @@
   "faq": {
     "name": "faq",
     "label": "FAQ",
-    "title": "Frequently Asked Questions About ShipAny",
-    "description": "Have another question? Contact us on Discord or by email.",
+    "title": "Frequently Asked Questions About Veo 3 Prompts",
+    "description": "Have another question? Contact us through our support channels.",
     "items": [
       {
-        "title": "What exactly is ShipAny and how does it work?",
-        "description": "ShipAny is a comprehensive NextJS boilerplate designed specifically for building AI SaaS startups. It provides ready-to-use templates, infrastructure setup, and deployment tools that help you launch your AI business in hours instead of days."
+        "title": "What is Veo 3 and why do I need specialized prompts?",
+        "description": "Veo 3 is Google's advanced AI video generation model with native audio, improved physics, and cinematic understanding. Our veo 3 prompts are specifically crafted to leverage these capabilities for professional results, following the optimal structure for consistent, high-quality outputs."
       },
       {
-        "title": "Do I need advanced technical skills to use ShipAny?",
-        "description": "While basic programming knowledge is helpful, ShipAny is designed to be developer-friendly. Our templates and documentation make it easy to get started, even if you're not an expert in AI or cloud infrastructure."
+        "title": "How are these veo 3 prompts different from basic descriptions?",
+        "description": "Our veo 3 prompts follow the proven formula: Subject + Context + Action + Style + Camera + Composition + Ambiance + Audio. This comprehensive approach ensures consistent, high-quality outputs compared to simple descriptions that often produce unpredictable results."
       },
       {
-        "title": "What types of AI SaaS can I build with ShipAny?",
-        "description": "ShipAny supports a wide range of AI applications, from content generation to data analysis tools. Our templates cover popular use cases like AI chatbots, content generators, image processing apps, and more."
+        "title": "Can I use these veo 3 prompts for commercial projects?",
+        "description": "Yes! Professional and Master Collection plans include commercial licenses. You can use the generated videos for client work, marketing campaigns, and commercial purposes. Our prompts help you create professional-quality content for business use."
       },
       {
-        "title": "How long does it typically take to launch with ShipAny?",
-        "description": "With ShipAny, you can have a working prototype in hours and a production-ready application in hours. Our one-click deployment and pre-configured infrastructure significantly reduce the traditional months-long development cycle."
+        "title": "Do you provide updates when Veo 3 evolves?",
+        "description": "Absolutely! All plans include lifetime updates. As Veo 3 improves and new techniques emerge, we continuously update our veo 3 prompts library to ensure you always have access to the latest and most effective prompting strategies."
       },
       {
-        "title": "What's included in the ShipAny infrastructure?",
-        "description": "ShipAny provides a complete infrastructure stack including authentication, database setup, API integration, payment processing, and scalable cloud deployment. Everything is pre-configured following industry best practices."
+        "title": "What if I'm new to AI video generation?",
+        "description": "Our Essential Pack includes a comprehensive style guide and basic tutorials. Each veo 3 prompts category has detailed explanations and usage examples. We provide step-by-step guidance to help beginners master Veo 3 video creation."
       },
       {
-        "title": "Can I customize the templates to match my brand?",
-        "description": "Absolutely! All ShipAny templates are fully customizable. You can modify the design, features, and functionality to match your brand identity and specific business requirements while maintaining the robust underlying infrastructure."
+        "title": "How do I maintain consistency across multiple video clips?",
+        "description": "Our veo 3 prompts include specific techniques for character and scene consistency, plus detailed descriptors that ensure visual continuity across your video series. We provide templates and guidelines for maintaining coherent storytelling."
       }
     ]
   },
   "cta": {
     "name": "cta",
-    "title": "Ship your first AI SaaS Startup",
-    "description": "Start from here, ship with ShipAny.",
+    "title": "Ready to Create Cinematic AI Videos?",
+    "description": "Transform your video creation workflow with professional veo 3 prompts.",
     "buttons": [
       {
-        "title": "Get ShipAny",
-        "url": "https://shipany.ai",
-        "target": "_blank",
+        "title": "Get Veo 3 Prompts",
+        "url": "/#pricing",
+        "target": "_self",
         "icon": "GoArrowUpRight"
       },
       {
-        "title": "Read Document",
-        "url": "https://docs.shipany.ai",
-        "target": "_blank",
+        "title": "View Examples",
+        "url": "/#examples",
+        "target": "_self",
         "variant": "outline"
       }
     ]
@@ -381,15 +366,15 @@
   "footer": {
     "name": "footer",
     "brand": {
-      "title": "ShipAny",
-      "description": "ShipAny is a NextJS boilerplate for building AI SaaS startups. Ship Fast with a variety of templates and components.",
+      "title": "Veo 3 Prompts",
+      "description": "Professional veo 3 prompts library for creating cinematic AI videos with Google's Veo 3. Master camera movements, lighting techniques, and advanced filmmaking with our expertly crafted prompts.",
       "logo": {
         "src": "/logo.png",
-        "alt": "ShipAny"
+        "alt": "Veo 3 Prompts"
       },
       "url": "/"
     },
-    "copyright": "© 2025 • ShipAny All rights reserved.",
+    "copyright": "© 2025 • Veo 3 Prompts All rights reserved.",
     "nav": {
       "items": [
         {
@@ -399,57 +384,21 @@
               "title": "Features",
               "url": "/#feature",
               "target": "_self"
-            },
-            {
-              "title": "Showcases",
-              "url": "/#showcase",
-              "target": "_self"
-            },
-            {
-              "title": "Pricing",
-              "url": "/#pricing",
-              "target": "_self"
             }
           ]
         },
         {
           "title": "Resources",
           "children": [
-            {
-              "title": "Documents",
-              "url": "https://docs.shipany.ai",
-              "target": "_blank"
-            },
-            {
-              "title": "Components",
-              "url": "https://shipany.ai/components",
-              "target": "_blank"
-            },
-            {
-              "title": "Templates",
-              "url": "https://shipany.ai/templates",
-              "target": "_blank"
-            }
+           
+           
+          
           ]
         },
         {
           "title": "Friends",
           "children": [
-            {
-              "title": "ThinkAny",
-              "url": "https://thinkany.ai",
-              "target": "_blank"
-            },
-            {
-              "title": "HeyBeauty",
-              "url": "https://heybeauty.ai",
-              "target": "_blank"
-            },
-            {
-              "title": "Pagen",
-              "url": "https://pagen.so",
-              "target": "_blank"
-            }
+           
           ]
         }
       ]

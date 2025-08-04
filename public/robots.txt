@@ -1,4 +1,16 @@
 User-agent: *
+Allow: /
 Disallow: /*?*q=
-Disallow: /privacy-policy
-Disallow: /terms-of-service
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /private/
+
+# Allow important pages for SEO
+Allow: /pricing
+Allow: /examples
+Allow: /privacy-policy
+Allow: /terms-of-service
+
+# Sitemap location
+Sitemap: https://veo3prompts.com/sitemap.xml

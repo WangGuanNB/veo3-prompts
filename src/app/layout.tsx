@@ -27,6 +27,31 @@ export default async function RootLayout({
 
         <link rel="icon" href="/favicon.ico" />
 
+        {/* Google Analytics - Delayed Loading */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              
+              // 延迟加载 Google Analytics
+              window.addEventListener('load', function() {
+                // 创建并加载 gtag 脚本
+                var script = document.createElement('script');
+                script.async = true;
+                script.src = 'https://www.googletagmanager.com/gtag/js?id=G-R6XV4KL084';
+                document.head.appendChild(script);
+                
+                // 脚本加载完成后初始化
+                script.onload = function() {
+                  gtag('js', new Date());
+                  gtag('config', 'G-R6XV4KL084');
+                };
+              });
+            `,
+          }}
+        />
+
         {locales &&
           locales.map((loc) => (
             <link

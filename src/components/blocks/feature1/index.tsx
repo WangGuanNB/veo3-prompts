@@ -10,14 +10,29 @@ export default function Feature1({ section }: { section: SectionType }) {
     <section id={section.name} className="py-16">
       <div className="container">
         <div className="grid items-center gap-8 lg:grid-cols-2 lg:gap-16">
-          {section.image && (
-            <img
-              src={section.image?.src}
-              alt="placeholder hero"
-              className="max-h-full w-full rounded-md object-cover"
-            />
-          )}
-          <div className="flex flex-col lg:text-left">
+          <div className="flex items-center justify-center">
+            {section.video ? (
+              <video
+                src={section.video.src}
+                poster={section.video.poster}
+                autoPlay={section.video.autoplay}
+                muted={section.video.muted}
+                loop={section.video.loop}
+                controls
+                preload="none"
+                className="w-full rounded-md object-cover"
+                style={{ minHeight: '500px', maxHeight: '600px' }}
+              />
+            ) : section.image ? (
+              <img
+                src={section.image?.src}
+                alt="placeholder hero"
+                className="w-full rounded-md object-cover"
+                style={{ minHeight: '500px', maxHeight: '600px' }}
+              />
+            ) : null}
+          </div>
+          <div className="flex flex-col justify-center lg:text-left">
             {section.title && (
               <h2 className="mb-6 text-pretty text-3xl font-bold lg:text-4xl">
                 {section.title}

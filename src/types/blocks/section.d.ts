@@ -1,4 +1,4 @@
-import { Image, Button } from "@/types/blocks/base";
+import { Image, Video, Button } from "@/types/blocks/base";
 
 export interface SectionItem {
   title?: string;
@@ -6,6 +6,7 @@ export interface SectionItem {
   label?: string;
   icon?: string;
   image?: Image;
+  video?: Video;
   buttons?: Button[];
   url?: string;
   target?: string;
@@ -20,6 +21,7 @@ export interface Section {
   label?: string;
   icon?: string;
   image?: Image;
+  video?: Video;
   buttons?: Button[];
   items?: SectionItem[];
 }

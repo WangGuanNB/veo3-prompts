@@ -101,8 +101,12 @@
     "title": "What are Professional Veo 3 Prompts",
     "label": "Introduction",
     "description": "Our veo 3 prompts are expertly crafted instructions that unlock Google's Veo 3 full potential. Each prompt follows the optimal structure: Subject + Context + Action + Style + Camera + Composition + Ambiance + Audio for consistent, cinematic results.",
-    "image": {
-      "src": "/imgs/features/1.png"
+    "video": {
+      "src": "/imgs/features/1.mp4",
+      "poster": "/imgs/features/1.png",
+      "autoplay": false,
+      "muted": true,
+      "loop": true
     },
     "items": [
       {
@@ -132,24 +136,36 @@
         "title": "Professional Prompt Structure",
         "description": "Every veo 3 prompt follows the proven formula: Subject + Context + Action + Style + Camera + Composition + Ambiance + Audio for consistent, high-quality results.",
         "icon": "RiFileTextFill",
-        "image": {
-          "src": "/imgs/features/2.png"
+        "video": {
+          "src": "/imgs/features/2.mp4",
+          "poster": "/imgs/features/2.png",
+          "autoplay": false,
+          "muted": true,
+          "loop": true
         }
       },
       {
         "title": "Comprehensive Categories",
         "description": "Access 500+ veo 3 prompts across camera movements, lighting, styles, characters, environments, and audio integration for every creative need.",
         "icon": "RiGridFill",
-        "image": {
-          "src": "/imgs/features/3.png"
+        "video": {
+          "src": "/imgs/features/3.mp4",
+          "poster": "/imgs/features/3.png",
+          "autoplay": false,
+          "muted": true,
+          "loop": true
         }
       },
       {
         "title": "Expert Support",
         "description": "Get dedicated prompt optimization support and join our community of creators mastering Veo 3 video generation techniques.",
         "icon": "RiTeamFill",
-        "image": {
-          "src": "/imgs/features/4.png"
+        "video": {
+          "src": "/imgs/features/4.mp4",
+          "poster": "/imgs/features/4.png",
+          "autoplay": false,
+          "muted": true,
+          "loop": true
         }
       }
     ]

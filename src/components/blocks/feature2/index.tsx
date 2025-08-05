@@ -113,12 +113,27 @@ export default function Feature2({ section }: { section: SectionType }) {
               <CarouselContent>
                 {section.items?.map((item, i) => (
                   <CarouselItem key={i}>
-                    <div>
-                      <img
-                        src={item.image?.src}
-                        alt={item.image?.alt || item.title}
-                        className="max-h-auto w-full object-cover lg:max-h-none rounded-md"
-                      />
+                    <div className="flex items-center justify-center" style={{ minHeight: '500px' }}>
+                      {item.video ? (
+                        <video
+                          src={item.video.src}
+                          poster={item.video.poster}
+                          autoPlay={item.video.autoplay}
+                          muted={item.video.muted}
+                          loop={item.video.loop}
+                          controls
+                          preload="none"
+                          className="w-full rounded-md object-cover"
+                          style={{ minHeight: '500px', maxHeight: '600px' }}
+                        />
+                      ) : item.image ? (
+                        <img
+                          src={item.image?.src}
+                          alt={item.image?.alt || item.title}
+                          className="w-full rounded-md object-cover"
+                          style={{ minHeight: '500px', maxHeight: '600px' }}
+                        />
+                      ) : null}
                     </div>
                   </CarouselItem>
                 ))}

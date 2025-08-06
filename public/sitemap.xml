@@ -2,46 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage -->
   <url>
-    <loc>https://veo3prompts.com/</loc>
+    <loc>https://veo3prompts.net/</loc>
     <lastmod>2025-01-08T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
-  <!-- Pricing Page -->
-  <url>
-    <loc>https://veo3prompts.com/pricing</loc>
-    <lastmod>2025-01-08T10:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  
-  <!-- Examples Page -->
-  <url>
-    <loc>https://veo3prompts.com/examples</loc>
-    <lastmod>2025-01-08T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Showcase Page -->
-  <url>
-    <loc>https://veo3prompts.com/showcase</loc>
-    <lastmod>2025-01-08T10:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
   <!-- Legal Pages -->
   <url>
-    <loc>https://veo3prompts.com/privacy-policy</loc>
+    <loc>https://veo3prompts.net/privacy-policy</loc>
     <lastmod>2025-01-08T10:00:00+00:00</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>https://veo3prompts.com/terms-of-service</loc>
+    <loc>https://veo3prompts.net/terms-of-service</loc>
     <lastmod>2025-01-08T10:00:00+00:00</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
